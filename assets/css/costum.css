@@ -1,0 +1,6 @@
+.main-me{
+    border: 1px solid;
+    width: 100%;
+    height: calc(100vh - 57px);
+    overflow-y: scroll;
+}
